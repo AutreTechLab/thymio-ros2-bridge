@@ -51,12 +51,13 @@ class Thymio2ControllerNode(Node): # MODIFY NAME
     def publish_thymio_status(self):
         msg = Thymio2Controller()
         msg.acc = self.asebaNetwork.GetVariable("thymio-II", "acc")
-        msg.temperature = 45
-        msg.sd_present = False
-        msg.debug_message = "Nothing special here"
+        msg.prox_horizontal = self.asebaNetwork.GetVariable("thymio-II", "prox.horizontal")
+        msg.prox_ground_ambiant = self.asebaNetwork.GetVariable("thymio-II", "prox.ground.ambiant")
+        msg.prox_ground_delta = self.asebaNetwork.GetVariable("thymio-II", "prox.ground.delta")
+        msg.prox_ground_reflected = self.asebaNetwork.GetVariable("thymio-II", "prox.ground.reflected")
+        msg.sd_present = bool(self.asebaNetwork.GetVariable("thymio-II", "sd.present"))
+        msg.debug_message = str(self.asebaNetwork.GetNodesList())
         self.thymio2_status_publisher_.publish(msg)
-
-
 
 # initialize asebamedulla in background and wait 0.3s to let
 # asebamedulla startup

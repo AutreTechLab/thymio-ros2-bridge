@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             "thymio2_controler_node = thymio2_ROS2_bridge_py_pkg.thymio2_controler_node:main",
+            "thymio2_monitor_node = thymio2_ROS2_bridge_py_pkg.thymio2_monitor_node:main",
             "my_first_node = thymio2_ROS2_bridge_py_pkg.my_first_node:main"
         ],
     },

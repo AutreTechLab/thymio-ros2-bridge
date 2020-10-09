@@ -21,9 +21,9 @@ string motor_right_speed
 string motor_right_target
 string prox_comm_rx
 string prox_comm_tx
-string[] prox_ground_ambiant
-string[] prox_ground_delta
-string[] prox_ground_reflected_0
+int64[] prox_ground_ambiant
+int64[] prox_ground_delta
+int64[] prox_ground_reflected
 int64[] prox_horizontal         # [0,1] Timer 1 and 2
 string rc5_address
 string rc5_command
