@@ -14,12 +14,14 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='autretechlab',
-    maintainer_email='autretechlab@todo.todo',
+    maintainer_email='autretechlab@tgmail.com',
     description='TODO: Package description',
-    license='TODO: License declaration',
+    license='MIT License',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "thymio2_controler_node = thymio2_ROS2_bridge_py_pkg.thymio2_controler_node:main",
+            "my_first_node = thymio2_ROS2_bridge_py_pkg.my_first_node:main"
         ],
     },
 )
