@@ -1,0 +1,37 @@
+[0.484s] Invoking command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/thymio2_ros2_tutorials_py_pkg': PYTHONPATH=/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/thymio2_ros2_tutorials_py_pkg build --build-base /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build install --prefix /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg --record /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/install.log --single-version-externally-managed
+[0.933s] running egg_info
+[0.934s] creating ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info
+[0.934s] writing ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/PKG-INFO
+[0.935s] writing dependency_links to ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/dependency_links.txt
+[0.937s] writing entry points to ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/entry_points.txt
+[0.937s] writing requirements to ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/requires.txt
+[0.937s] writing top-level names to ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/top_level.txt
+[0.941s] writing manifest file '../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/SOURCES.txt'
+[1.008s] reading manifest file '../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/SOURCES.txt'
+[1.010s] writing manifest file '../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info/SOURCES.txt'
+[1.010s] running build
+[1.010s] running build_py
+[1.010s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build
+[1.011s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build/lib
+[1.011s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build/lib/thymio2_ros2_tutorials_py_pkg
+[1.011s] copying thymio2_ros2_tutorials_py_pkg/thymio2_monitor_node.py -> /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build/lib/thymio2_ros2_tutorials_py_pkg
+[1.011s] copying thymio2_ros2_tutorials_py_pkg/__init__.py -> /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build/lib/thymio2_ros2_tutorials_py_pkg
+[1.012s] running install
+[1.013s] running install_lib
+[1.016s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages/thymio2_ros2_tutorials_py_pkg
+[1.016s] copying /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build/lib/thymio2_ros2_tutorials_py_pkg/thymio2_monitor_node.py -> /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages/thymio2_ros2_tutorials_py_pkg
+[1.016s] copying /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build/lib/thymio2_ros2_tutorials_py_pkg/__init__.py -> /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages/thymio2_ros2_tutorials_py_pkg
+[1.017s] byte-compiling /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages/thymio2_ros2_tutorials_py_pkg/thymio2_monitor_node.py to thymio2_monitor_node.cpython-38.pyc
+[1.020s] byte-compiling /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages/thymio2_ros2_tutorials_py_pkg/__init__.py to __init__.cpython-38.pyc
+[1.020s] running install_data
+[1.022s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/share/ament_index
+[1.022s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/share/ament_index/resource_index
+[1.022s] creating /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/share/ament_index/resource_index/packages
+[1.024s] copying resource/thymio2_ros2_tutorials_py_pkg -> /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/share/ament_index/resource_index/packages
+[1.024s] copying package.xml -> /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/share/thymio2_ros2_tutorials_py_pkg
+[1.024s] running install_egg_info
+[1.026s] Copying ../build/thymio2_ros2_tutorials_py_pkg/thymio2_ros2_tutorials_py_pkg.egg-info to /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages/thymio2_ros2_tutorials_py_pkg-0.0.0-py3.8.egg-info
+[1.028s] running install_scripts
+[1.069s] Installing thymio2_monitor_node script to /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/thymio2_ros2_tutorials_py_pkg
+[1.070s] writing list of installed files to '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/install.log'
+[1.118s] Invoked command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/thymio2_ros2_tutorials_py_pkg' returned '0': PYTHONPATH=/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/thymio2_ros2_tutorials_py_pkg build --build-base /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/build install --prefix /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_ros2_tutorials_py_pkg --record /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_ros2_tutorials_py_pkg/install.log --single-version-externally-managed

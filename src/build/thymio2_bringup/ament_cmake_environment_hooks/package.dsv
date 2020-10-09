@@ -1,0 +1,4 @@
+source;share/thymio2_bringup/local_setup.bash
+source;share/thymio2_bringup/local_setup.dsv
+source;share/thymio2_bringup/local_setup.sh
+source;share/thymio2_bringup/local_setup.zsh

@@ -1,0 +1,253 @@
+[0.051s] Invoking command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ros2_bridge_py_pkg:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ROS2_bridge_py_pkg:/opt/ros/foxy /usr/bin/cmake /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/thymio2_interfaces -DCMAKE_INSTALL_PREFIX=/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces
+[0.506s] -- The C compiler identification is GNU 9.3.0
+[0.524s] -- The CXX compiler identification is GNU 9.3.0
+[0.525s] -- Check for working C compiler: /usr/bin/cc
+[0.656s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.657s] -- Detecting C compiler ABI info
+[0.762s] -- Detecting C compiler ABI info - done
+[0.777s] -- Detecting C compile features
+[0.778s] -- Detecting C compile features - done
+[0.782s] -- Check for working CXX compiler: /usr/bin/c++
+[0.891s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.891s] -- Detecting CXX compiler ABI info
+[1.028s] -- Detecting CXX compiler ABI info - done
+[1.054s] -- Detecting CXX compile features
+[1.056s] -- Detecting CXX compile features - done
+[1.062s] -- Found ament_cmake: 0.9.6 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.106s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+[1.106s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.505s] -- Found rosidl_default_generators: 1.0.0 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[1.517s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.536s] -- Found rosidl_adapter: 1.1.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.713s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.761s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.910s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.992s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.5") 
+[2.185s] -- Found ament_cmake_ros: 0.9.0 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[2.318s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.331s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.369s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3.5") 
+[2.372s] -- Found python_cmake_module: 0.8.0 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[2.417s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.5", minimum required is "3.5") 
+[2.417s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.417s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[2.417s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[2.450s] -- Found PythonExtra: .so  
+[2.533s] -- Configuring done
+[2.581s] -- Generating done
+[2.585s] -- Build files have been written to: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces
+[2.596s] Invoked command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ros2_bridge_py_pkg:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ROS2_bridge_py_pkg:/opt/ros/foxy /usr/bin/cmake /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/thymio2_interfaces -DCMAKE_INSTALL_PREFIX=/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces
+[2.599s] Invoking command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ros2_bridge_py_pkg:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ROS2_bridge_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces -- -j4 -l4
+[2.673s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.673s] [35m[1mScanning dependencies of target thymio2_interfaces__cpp[0m
+[2.692s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.339s] [  5%] Built target thymio2_interfaces__cpp
+[3.339s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_generator_c[0m
+[3.356s] [  7%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.360s] [ 12%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.361s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.366s] [ 15%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_generator_c.dir/rosidl_generator_c/thymio2_interfaces/msg/detail/thymio2_controller__functions.c.o[0m
+[3.486s] [ 17%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_generator_c.dir/rosidl_generator_c/thymio2_interfaces/srv/detail/thymio2_controller_srv__functions.c.o[0m
+[3.624s] [ 20%] [32m[1mLinking C shared library libthymio2_interfaces__rosidl_generator_c.so[0m
+[3.711s] [ 20%] Built target thymio2_interfaces__rosidl_generator_c
+[3.731s] [ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.170s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_cpp[0m
+[4.202s] [ 25%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/thymio2_interfaces/msg/thymio2_controller__type_support.cpp.o[0m
+[4.310s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_introspection_cpp[0m
+[4.344s] [ 28%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/thymio2_interfaces/msg/detail/thymio2_controller__type_support.cpp.o[0m
+[4.366s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[4.415s] [ 30%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/thymio2_interfaces/msg/detail/dds_fastrtps/thymio2_controller__type_support.cpp.o[0m
+[4.726s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_introspection_c[0m
+[4.756s] [ 33%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/thymio2_interfaces/msg/detail/thymio2_controller__type_support.c.o[0m
+[4.839s] [ 35%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.c.o[0m
+[4.923s] [ 38%] [32m[1mLinking C shared library libthymio2_interfaces__rosidl_typesupport_introspection_c.so[0m
+[4.998s] [ 41%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/thymio2_interfaces/srv/thymio2_controller_srv__type_support.cpp.o[0m
+[5.019s] [ 41%] Built target thymio2_interfaces__rosidl_typesupport_introspection_c
+[5.039s] [ 43%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.cpp.o[0m
+[5.403s] [ 46%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.793s] [ 48%] [32m[1mLinking CXX shared library libthymio2_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[5.804s] [ 51%] [32m[1mLinking CXX shared library libthymio2_interfaces__rosidl_typesupport_cpp.so[0m
+[5.896s] [ 51%] Built target thymio2_interfaces__rosidl_typesupport_cpp
+[5.900s] [ 53%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/thymio2_interfaces/srv/detail/dds_fastrtps/thymio2_controller_srv__type_support.cpp.o[0m
+[5.955s] [ 53%] Built target thymio2_interfaces__rosidl_typesupport_introspection_cpp
+[6.164s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_c[0m
+[6.181s] [ 56%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/thymio2_interfaces/srv/thymio2_controller_srv__type_support.cpp.o[0m
+[6.185s] [ 58%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/thymio2_interfaces/msg/thymio2_controller__type_support.cpp.o[0m
+[6.243s] [ 61%] [32m[1mLinking CXX shared library libthymio2_interfaces__rosidl_typesupport_c.so[0m
+[6.297s] [ 61%] Built target thymio2_interfaces__rosidl_typesupport_c
+[6.609s] [ 64%] [32m[1mLinking CXX shared library libthymio2_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[6.739s] [ 64%] Built target thymio2_interfaces__rosidl_typesupport_fastrtps_cpp
+[6.757s] [ 66%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[7.321s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_fastrtps_c[0m
+[7.346s] [ 69%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support_c.cpp.o[0m
+[7.346s] [ 71%] [32mBuilding CXX object CMakeFiles/thymio2_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/thymio2_interfaces/msg/detail/thymio2_controller__type_support_c.cpp.o[0m
+[8.043s] [ 74%] [32m[1mLinking CXX shared library libthymio2_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[8.161s] [ 74%] Built target thymio2_interfaces__rosidl_typesupport_fastrtps_c
+[8.180s] [35m[1mScanning dependencies of target thymio2_interfaces[0m
+[8.199s] [ 74%] Built target thymio2_interfaces
+[8.219s] [35m[1mScanning dependencies of target thymio2_interfaces__py[0m
+[8.239s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[9.386s] [ 76%] Built target thymio2_interfaces__py
+[9.404s] [35m[1mScanning dependencies of target thymio2_interfaces__python[0m
+[9.471s] [ 82%] [32mBuilding C object CMakeFiles/thymio2_interfaces__python.dir/rosidl_generator_py/thymio2_interfaces/srv/_thymio2_controller_srv_s.c.o[0m
+[9.471s] [ 82%] [32mBuilding C object CMakeFiles/thymio2_interfaces__python.dir/rosidl_generator_py/thymio2_interfaces/msg/_thymio2_controller_s.c.o[0m
+[9.724s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/thymio2_interfaces/libthymio2_interfaces__python.so[0m
+[9.782s] [ 84%] Built target thymio2_interfaces__python
+[9.797s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[9.800s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_c__pyext[0m
+[9.801s] [35m[1mScanning dependencies of target thymio2_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[9.826s] [ 87%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/thymio2_interfaces/_thymio2_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[9.840s] [ 92%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/thymio2_interfaces/_thymio2_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[9.840s] [ 92%] [32mBuilding C object CMakeFiles/thymio2_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/thymio2_interfaces/_thymio2_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[9.965s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[10.018s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[10.029s] [ 97%] Built target thymio2_interfaces__rosidl_typesupport_c__pyext
+[10.047s] [100%] [32m[1mLinking CXX shared library rosidl_generator_py/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[10.070s] [100%] Built target thymio2_interfaces__rosidl_typesupport_introspection_c__pyext
+[10.133s] [100%] Built target thymio2_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[10.148s] Invoked command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ros2_bridge_py_pkg:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ROS2_bridge_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces -- -j4 -l4
+[10.237s] Invoking command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ros2_bridge_py_pkg:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ROS2_bridge_py_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces
+[10.257s] -- Install configuration: ""
+[10.258s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/ament_index/resource_index/rosidl_interfaces/thymio2_interfaces
+[10.258s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces
+[10.258s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv
+[10.259s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/thymio2_controller_srv.h
+[10.259s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail
+[10.259s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__struct.h
+[10.259s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__functions.c
+[10.260s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__functions.h
+[10.260s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.h
+[10.260s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg
+[10.260s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/rosidl_generator_c__visibility_control.h
+[10.260s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/thymio2_controller.h
+[10.260s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail
+[10.261s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__functions.h
+[10.261s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__struct.h
+[10.261s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__type_support.h
+[10.261s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__functions.c
+[10.261s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/library_path.sh
+[10.261s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/library_path.dsv
+[10.262s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_generator_c.so
+[10.262s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_generator_c.so" to ""
+[10.262s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces
+[10.262s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv
+[10.262s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail
+[10.262s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__rosidl_typesupport_fastrtps_c.h
+[10.262s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg
+[10.263s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.263s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail
+[10.263s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__rosidl_typesupport_fastrtps_c.h
+[10.263s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_fastrtps_c.so
+[10.263s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[10.264s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces
+[10.264s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv
+[10.264s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail
+[10.264s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/dds_fastrtps
+[10.264s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__rosidl_typesupport_fastrtps_cpp.hpp
+[10.264s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg
+[10.264s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.265s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail
+[10.265s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/dds_fastrtps
+[10.265s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[10.265s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[10.265s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[10.265s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces
+[10.266s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv
+[10.266s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail
+[10.266s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__rosidl_typesupport_introspection_c.h
+[10.266s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.c
+[10.266s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg
+[10.266s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.266s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail
+[10.267s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__rosidl_typesupport_introspection_c.h
+[10.267s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__type_support.c
+[10.267s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_introspection_c.so
+[10.267s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[10.267s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_c.so
+[10.267s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_c.so" to ""
+[10.268s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces
+[10.268s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv
+[10.268s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/thymio2_controller_srv.hpp
+[10.268s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail
+[10.268s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__builder.hpp
+[10.269s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__traits.hpp
+[10.269s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__struct.hpp
+[10.269s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg
+[10.269s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/thymio2_controller.hpp
+[10.269s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail
+[10.270s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__struct.hpp
+[10.270s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__traits.hpp
+[10.270s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__builder.hpp
+[10.270s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces
+[10.270s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv
+[10.271s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail
+[10.271s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__rosidl_typesupport_introspection_cpp.hpp
+[10.271s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.cpp
+[10.271s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg
+[10.271s] -- Up-to-date: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail
+[10.271s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__rosidl_typesupport_introspection_cpp.hpp
+[10.271s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/include/thymio2_interfaces/msg/detail/thymio2_controller__type_support.cpp
+[10.272s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_introspection_cpp.so
+[10.272s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[10.272s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_cpp.so
+[10.273s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__rosidl_typesupport_cpp.so" to ""
+[10.273s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/pythonpath.sh
+[10.273s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/pythonpath.dsv
+[10.274s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/__init__.py
+[10.313s] Compiling '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/__init__.py'...
+[10.318s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/msg
+[10.319s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/msg/__init__.py
+[10.319s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/msg/_thymio2_controller_s.c
+[10.319s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/msg/_thymio2_controller.py
+[10.320s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/srv
+[10.320s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/srv/__init__.py
+[10.320s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/srv/_thymio2_controller_srv_s.c
+[10.320s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/srv/_thymio2_controller_srv.py
+[10.321s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[10.322s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[10.322s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[10.324s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[10.324s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[10.326s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/python3.8/site-packages/thymio2_interfaces/thymio2_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[10.326s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__python.so
+[10.327s] -- Set runtime path of "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/lib/libthymio2_interfaces__python.so" to ""
+[10.327s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/msg/Thymio2Controller.idl
+[10.328s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/srv/Thymio2ControllerSrv.idl
+[10.328s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/msg/Thymio2Controller.msg
+[10.328s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/srv/Thymio2ControllerSrv.srv
+[10.329s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/srv/Thymio2ControllerSrv_Request.msg
+[10.329s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/srv/Thymio2ControllerSrv_Response.msg
+[10.330s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/ament_index/resource_index/package_run_dependencies/thymio2_interfaces
+[10.330s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/ament_index/resource_index/parent_prefix_path/thymio2_interfaces
+[10.331s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/ament_prefix_path.sh
+[10.331s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/ament_prefix_path.dsv
+[10.332s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/path.sh
+[10.332s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/environment/path.dsv
+[10.333s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/local_setup.bash
+[10.335s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/local_setup.sh
+[10.335s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/local_setup.zsh
+[10.336s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/local_setup.dsv
+[10.336s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/package.dsv
+[10.336s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/ament_index/resource_index/packages/thymio2_interfaces
+[10.336s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_generator_cExport.cmake
+[10.337s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_generator_cExport-noconfig.cmake
+[10.337s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[10.337s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[10.338s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_cExport.cmake
+[10.338s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[10.339s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_generator_cppExport.cmake
+[10.339s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[10.339s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[10.340s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_cppExport.cmake
+[10.340s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[10.341s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/rosidl_cmake-extras.cmake
+[10.341s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[10.342s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[10.342s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[10.343s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[10.343s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[10.343s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[10.344s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfacesConfig.cmake
+[10.344s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/cmake/thymio2_interfacesConfig-version.cmake
+[10.345s] -- Installing: /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/install/thymio2_interfaces/share/thymio2_interfaces/package.xml
+[10.350s] Invoked command in '/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ros2_bridge_py_pkg:/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/install/thymio2_ROS2_bridge_py_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/build/thymio2_interfaces

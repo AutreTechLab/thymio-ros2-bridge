@@ -1,0 +1,3 @@
+[console_scripts]
+thymio2_monitor_node = thymio2_ros2_tutorials_py_pkg.thymio2_monitor_node:main
+

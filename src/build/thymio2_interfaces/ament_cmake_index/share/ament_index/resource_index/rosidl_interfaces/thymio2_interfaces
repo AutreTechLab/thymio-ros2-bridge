@@ -1,0 +1,6 @@
+msg/Thymio2Controller.idl
+msg/Thymio2Controller.msg
+srv/Thymio2ControllerSrv.idl
+srv/Thymio2ControllerSrv.srv
+srv/Thymio2ControllerSrv_Request.msg
+srv/Thymio2ControllerSrv_Response.msg

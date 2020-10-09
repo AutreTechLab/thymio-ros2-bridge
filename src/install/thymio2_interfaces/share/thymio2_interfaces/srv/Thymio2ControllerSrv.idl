@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from thymio2_interfaces/srv/Thymio2ControllerSrv.srv
+// generated code does not contain a copyright notice
+
+
+module thymio2_interfaces {
+  module srv {
+    struct Thymio2ControllerSrv_Request {
+      string command;
+
+      string usb_port;
+    };
+    struct Thymio2ControllerSrv_Response {
+      boolean success;
+
+      string log_message;
+    };
+  };
+};

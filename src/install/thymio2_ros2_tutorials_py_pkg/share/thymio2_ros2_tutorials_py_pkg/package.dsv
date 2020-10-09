@@ -1,0 +1,6 @@
+source;share/thymio2_ros2_tutorials_py_pkg/hook/pythonpath.ps1
+source;share/thymio2_ros2_tutorials_py_pkg/hook/pythonpath.dsv
+source;share/thymio2_ros2_tutorials_py_pkg/hook/pythonpath.sh
+source;share/thymio2_ros2_tutorials_py_pkg/hook/ament_prefix_path.ps1
+source;share/thymio2_ros2_tutorials_py_pkg/hook/ament_prefix_path.dsv
+source;share/thymio2_ros2_tutorials_py_pkg/hook/ament_prefix_path.sh

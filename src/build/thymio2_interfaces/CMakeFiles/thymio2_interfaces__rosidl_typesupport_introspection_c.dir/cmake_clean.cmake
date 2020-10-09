@@ -1,0 +1,15 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/thymio2_interfaces/msg/detail/thymio2_controller__type_support.c.o"
+  "CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.c.o"
+  "libthymio2_interfaces__rosidl_typesupport_introspection_c.pdb"
+  "libthymio2_interfaces__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/thymio2_interfaces/msg/detail/thymio2_controller__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/thymio2_interfaces/msg/detail/thymio2_controller__type_support.c"
+  "rosidl_typesupport_introspection_c/thymio2_interfaces/srv/detail/thymio2_controller_srv__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/thymio2_interfaces/srv/detail/thymio2_controller_srv__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/thymio2_interfaces__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
