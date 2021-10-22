@@ -1,4 +1,0 @@
-[console_scripts]
-my_first_node = thymio2_ros2_bridge_py_pkg.my_first_node:main
-thymio2_controler_node = thymio2_ros2_bridge_py_pkg.thymio2_controler_node:main
-

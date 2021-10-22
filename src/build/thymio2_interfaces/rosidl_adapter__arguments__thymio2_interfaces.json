@@ -1,7 +1,0 @@
-{
-  "package_name": "thymio2_interfaces",
-  "non_idl_tuples": [
-    "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/thymio2_interfaces:msg/Thymio2Controller.msg",
-    "/home/autretechlab/Documents/GitHub/ATL_ThymioII_ROS2_bridge/src/thymio2_interfaces:srv/Thymio2ControllerSrv.srv"
-  ]
-}

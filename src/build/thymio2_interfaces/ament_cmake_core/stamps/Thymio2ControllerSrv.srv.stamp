@@ -1,5 +1,0 @@
-string command
-string usb_port
----
-bool success
-string log_message
